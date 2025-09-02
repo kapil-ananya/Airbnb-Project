@@ -1,4 +1,4 @@
 #environment variable
 .env
 # dependicies
-.node_modules/
+node_modules/
